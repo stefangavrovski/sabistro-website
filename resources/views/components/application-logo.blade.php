@@ -1,0 +1,1 @@
+<img src="{{ asset('images/logo.png') }}" alt="S&A Bistro" class="h-16 w-auto">
